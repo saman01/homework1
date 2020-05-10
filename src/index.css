@@ -1,0 +1,81 @@
+body {
+  padding: 10px;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+   
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+footer{
+  position: absolute;
+  bottom:10px;
+  background-color: rgb(45, 45, 114);
+  color: antiquewhite;
+  font-size: 0.7em;
+  width: 99%;
+  height: 70px;
+  border-radius: 10px;
+}
+.copyright-text{
+  display: inline-block;
+  position: absolute;
+  right: 20px;
+  bottom: 10px;
+  margin-left: 300px;
+  width: 300px;
+  color: aquamarine;
+}
+.text-justify{
+  font-size: 1.3em;
+}
+.hello{
+  margin-top: 5px;
+}
+.navvy{
+  border-radius: 10px;
+  background-color: rgb(45, 45, 114);
+}
+.images{
+  text-align: center;
+  background-color: rgb(4, 3, 7);
+  height: 500px;
+  border-radius: 10px;
+  margin-top: 30px;
+}
+.icons{
+  width: 40px;
+  position: absolute;
+  bottom: 15px;
+  left: 450px;
+  z-index: 2;
+}
+.icon2{
+    left: 500px;
+}
+.icon3{
+  left: 550px;
+}
+#about , #contact{
+  display: inline-block;
+  text-align: center;
+  width: 400px;
+  position: absolute;
+  left: 380px;
+  top: 300px;
+  font-size: 1.2em;
+}
+.img{
+  margin-top: 70px;
+}
+
+.cap{
+  position: absolute;
+  top: 420px;
+}
